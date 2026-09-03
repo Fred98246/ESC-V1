@@ -13,17 +13,17 @@ Components used:
 * **BUK9M3R3-40HX** - MOSFETs
 * **INA180B2QDBVRQ1** - Current sensing amplifier
 
-Schematic:
+**Schematic:**
 
 <img width="1124" height="772" alt="image" src="https://github.com/user-attachments/assets/b0982a3b-68a5-4740-b304-a5b1dbb96f14" />
 
-PCB:
+**PCB:**
 
 Design in progress...
 
-Testing (after PCB i will test this circuit and see how it responds)...
+**Testing (after PCB i will test this circuit and see how it responds)...**
 
-Links i have used to learn abaout this topic:
+**Links i have used to learn abaout this topic:**
 
 * 10xareo: https://www.youtube.com/watch?v=67gBlW3sq4E&t=408s (Example of similar ESC build)
 * Phills labs: https://www.youtube.com/watch?v=dJjxcjJOlN0 (Great for understanding how to create the PCB)
