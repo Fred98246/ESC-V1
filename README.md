@@ -23,3 +23,15 @@ Design in progress...
 
 Testing (after PCB i will test this circuit and see how it responds)...
 
+Links i have used to learn abaout this topic:
+
+10xareo: https://www.youtube.com/watch?v=67gBlW3sq4E&t=408s (Example of similar ESC build)
+Phills labs: https://www.youtube.com/watch?v=dJjxcjJOlN0 (Great for understanding how to create the PCB)
+Electronoobs: https://www.youtube.com/watch?v=erppWLMzw8I&t=2189s (All the theory behind how the ESC works)
+The engeneering mindset: https://www.youtube.com/watch?v=yiD5nCfmbV0 (Understanding brushless motors)
+
+https://www.allpcb.com/allelectrohub/designing-pcbs-for-power-electronics-in-industrial-automation
+https://savobajic.ca/projects/personal/esc/esc-v1/ 
+https://vedder.se/2015/01/vesc-open-source-esc/
+https://www.ligpower.com/blog/complete-drone-motor-guide.html (Guide on drone Motors)
+
