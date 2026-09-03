@@ -15,7 +15,7 @@ Components used:
 
 **Schematic:**
 
-<img width="1124" height="772" alt="image" src="https://github.com/user-attachments/assets/b0982a3b-68a5-4740-b304-a5b1dbb96f14" />
+<img width="1129" height="772" alt="image" src="https://github.com/user-attachments/assets/7d386da7-6b9b-45b4-889d-73891edff038" />
 
 **PCB:**
 
