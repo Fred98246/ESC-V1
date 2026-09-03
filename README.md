@@ -23,7 +23,7 @@ Design in progress...
 
 **Testing (after PCB i will test this circuit and see how it responds)...**
 
-**Links i have used to learn abaout this topic:**
+**Links to learn abaout ESC design and brushless motors:**
 
 * 10xareo: https://www.youtube.com/watch?v=67gBlW3sq4E&t=408s (Example of similar ESC build)
 * Phills labs: https://www.youtube.com/watch?v=dJjxcjJOlN0 (Great for understanding how to create the PCB)
